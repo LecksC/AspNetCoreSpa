@@ -65,8 +65,6 @@ namespace AspNetCoreSpa
 
             services.AddCustomizedMvc();
 
-            services.AddSignalR(options => options.Hubs.EnableDetailedErrors = true);
-
             // Node services are to execute any arbitrary nodejs code from .net
             services.AddNodeServices();
 
@@ -117,7 +115,6 @@ namespace AspNetCoreSpa
                     defaults: new { controller = "Home", action = "Index" });
             });
 
-            app.UseSignalR();
         }
     }
 }
