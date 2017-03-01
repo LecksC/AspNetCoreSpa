@@ -79,6 +79,10 @@
   version "6.0.0"
   resolved "https://registry.yarnpkg.com/@ngx-translate/core/-/core-6.0.0.tgz#823dccefcd82bbe29763949e55d2dc60a1735a66"
 
+"@ngx-translate/http-loader@0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@ngx-translate/http-loader/-/http-loader-0.0.3.tgz#8346c8d2d6f630254601029668f17abe2afe8a9b"
+
 "@types/fs-extra@0.0.33":
   version "0.0.33"
   resolved "https://registry.yarnpkg.com/@types/fs-extra/-/fs-extra-0.0.33.tgz#a8719c417b080c012d3497b28e228ac09745fdf2"

@@ -75,7 +75,6 @@ export class SharedModule {
         FormControlService,
         DataService,
         // AuthService,
-        DataService,
         ContentService,
         UtilityService
       ]
